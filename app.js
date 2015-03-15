@@ -1,3 +1,6 @@
+//first run
+
+
 var randomSpeed = function(){
     var runSpeed = (Math.floor(Math.random()* 5) + 1) * 75;
     return runSpeed;
